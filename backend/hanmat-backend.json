@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "name": "hanmat-backend",
+            "script": "java",
+            "watch": true,
+            "args": [
+                "-jar",
+                "hanmat-backend.jar"
+            ]
+        }
+    ]
+}

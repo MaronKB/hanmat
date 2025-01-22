@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "hanmat-fileserver",
+        "script": "hanmat-fileserver",
+        "watch": true
+    }]
+}
